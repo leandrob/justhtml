@@ -1,4 +1,4 @@
-
+{
   "name": "justhtml",
   "author": "Leandro Boffi <lboffi@gmail.com>",
   "description": "Static HTML view engine for Express",
