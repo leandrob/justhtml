@@ -1,0 +1,12 @@
+
+  "name": "justhtml",
+  "author": "Leandro Boffi <lboffi@gmail.com>",
+  "description": "Static HTML view engine for Express",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leandrob/justhtml.git"
+    },
+    "keywords": ["node.js", "express","view-engine"],
+    "main": "./index.js"
+}
